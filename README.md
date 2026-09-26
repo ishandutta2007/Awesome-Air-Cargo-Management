@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Air-Cargo-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Air-Cargo-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Air-Cargo-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Air-Cargo-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Air-Cargo-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Air-Cargo-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Air-Cargo-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,36 +58,36 @@ The global **Air Cargo Management Software** market is estimated at **$1.8 Billi
 
 Production air cargo airline systems are predominantly commercial, but open-source software plays a pivotal role in **data standardization (IATA ONE Record)**, **customs & message conversion (Cargo-XML / Cargo-IMP)**, **open TMS engines**, and **educational booking state machines**. 
 
-*Repos are sorted below by GitHub Star Count (descending).*
+*Repos are sorted below by GitHub Stars_Count (descending).*
 
-1. **[IATA-Cargo/ONE-Record](https://github.com/IATA-Cargo/ONE-Record)** [![GitHub stars](https://img.shields.io/github/stars/IATA-Cargo/ONE-Record?style=social&color=white)](https://github.com/IATA-Cargo/ONE-Record/stargazers)  
+1. **[IATA-Cargo/ONE-Record](https://github.com/IATA-Cargo/ONE-Record)** [![GitHub_Stars](https://img.shields.io/github/stars/IATA-Cargo/ONE-Record?style=social&color=white)](https://github.com/IATA-Cargo/ONE-Record/stargazers)  
    📦 Official IATA repository containing the standard specification, ontology schemas, API definitions, and data models for **IATA ONE Record** digital air freight data exchange.
 
-2. **[loadpartner/tms](https://github.com/loadpartner/tms)** [![GitHub stars](https://img.shields.io/github/stars/loadpartner/tms?style=social&color=white)](https://github.com/loadpartner/tms/stargazers)  
+2. **[loadpartner/tms](https://github.com/loadpartner/tms)** [![GitHub_Stars](https://img.shields.io/github/stars/loadpartner/tms?style=social&color=white)](https://github.com/loadpartner/tms/stargazers)  
    🚚 Open-source Transportation Management System (TMS) designed for freight brokers and logistics operations, adaptable for multi-modal air freight dispatch.
 
-3. **[IATA-Cargo/one-record-server-java](https://github.com/IATA-Cargo/one-record-server-java)** [![GitHub stars](https://img.shields.io/github/stars/IATA-Cargo/one-record-server-java?style=social&color=white)](https://github.com/IATA-Cargo/one-record-server-java/stargazers)  
+3. **[IATA-Cargo/one-record-server-java](https://github.com/IATA-Cargo/one-record-server-java)** [![GitHub_Stars](https://img.shields.io/github/stars/IATA-Cargo/one-record-server-java?style=social&color=white)](https://github.com/IATA-Cargo/one-record-server-java/stargazers)  
    ☕ Official reference Java implementation of an IATA ONE Record server API for publishing and subscribing to digital air cargo logistics objects.
 
-4. **[digital-cargo/good-practice-shipment-tracking](https://github.com/digital-cargo/good-practice-shipment-tracking)** [![GitHub stars](https://img.shields.io/github/stars/digital-cargo/good-practice-shipment-tracking?style=social&color=white)](https://github.com/digital-cargo/good-practice-shipment-tracking/stargazers)  
+4. **[digital-cargo/good-practice-shipment-tracking](https://github.com/digital-cargo/good-practice-shipment-tracking)** [![GitHub_Stars](https://img.shields.io/github/stars/digital-cargo/good-practice-shipment-tracking?style=social&color=white)](https://github.com/digital-cargo/good-practice-shipment-tracking/stargazers)  
    📊 Reference implementation and operational guidance for implementing standardized shipment tracking within the IATA ONE Record digital cargo network.
 
-5. **[DrPhilippBillion/1R_ShipmentTracking](https://github.com/DrPhilippBillion/1R_ShipmentTracking)** [![GitHub stars](https://img.shields.io/github/stars/DrPhilippBillion/1R_ShipmentTracking?style=social&color=white)](https://github.com/DrPhilippBillion/1R_ShipmentTracking/stargazers)  
+5. **[DrPhilippBillion/1R_ShipmentTracking](https://github.com/DrPhilippBillion/1R_ShipmentTracking)** [![GitHub_Stars](https://img.shields.io/github/stars/DrPhilippBillion/1R_ShipmentTracking?style=social&color=white)](https://github.com/DrPhilippBillion/1R_ShipmentTracking/stargazers)  
    🌐 Open implementation and API schema requirements for ONE Record shipment tracking interoperability across carrier networks.
 
-6. **[IATA-Cargo/one-record-security-java](https://github.com/IATA-Cargo/one-record-security-java)** [![GitHub stars](https://img.shields.io/github/stars/IATA-Cargo/one-record-security-java?style=social&color=white)](https://github.com/IATA-Cargo/one-record-security-java/stargazers)  
+6. **[IATA-Cargo/one-record-security-java](https://github.com/IATA-Cargo/one-record-security-java)** [![GitHub_Stars](https://img.shields.io/github/stars/IATA-Cargo/one-record-security-java?style=social&color=white)](https://github.com/IATA-Cargo/one-record-security-java/stargazers)  
    🔒 Reference Java security framework demonstrating mutual authentication, authorization, and data privacy compliance for ONE Record servers.
 
-7. **[riege/one-record-converter](https://github.com/riege/one-record-converter)** [![GitHub stars](https://img.shields.io/github/stars/riege/one-record-converter?style=social&color=white)](https://github.com/riege/one-record-converter/stargazers)  
+7. **[riege/one-record-converter](https://github.com/riege/one-record-converter)** [![GitHub_Stars](https://img.shields.io/github/stars/riege/one-record-converter?style=social&color=white)](https://github.com/riege/one-record-converter/stargazers)  
    🔄 Open converter utility for transforming legacy Cargo-XML messages (e.g., XFWB / XFZB) into modern IATA ONE Record JSON-LD formats.
 
 8. **[open-logistics-foundation/ne-one](https://git.openlogisticsfoundation.org/digital-air-cargo/ne-one)** [![GitLab](https://img.shields.io/badge/Open_Logistics-NE:ONE-blue?style=flat-square&logo=gitlab)](https://git.openlogisticsfoundation.org/digital-air-cargo/ne-one)  
    ⚡ Open-source reference server implementation (NE:ONE) developed by Fraunhofer IML for deploying production-ready IATA ONE Record node services.
 
-9. **[wearewarp/warp-tools](https://github.com/wearewarp/warp-tools)** [![GitHub stars](https://img.shields.io/github/stars/wearewarp/warp-tools?style=social&color=white)](https://github.com/wearewarp/warp-tools/stargazers)  
+9. **[wearewarp/warp-tools](https://github.com/wearewarp/warp-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/wearewarp/warp-tools?style=social&color=white)](https://github.com/wearewarp/warp-tools/stargazers)  
    🛠️ Self-hosted operational tools for carrier management, rate lookup, and shipment invoicing designed to replace manual spreadsheet workflows.
 
-10. **[freightcms/freightcms](https://github.com/freightcms/freightcms)** [![GitHub stars](https://img.shields.io/github/stars/freightcms/freightcms?style=social&color=white)](https://github.com/freightcms/freightcms/stargazers)  
+10. **[freightcms/freightcms](https://github.com/freightcms/freightcms)** [![GitHub_Stars](https://img.shields.io/github/stars/freightcms/freightcms?style=social&color=white)](https://github.com/freightcms/freightcms/stargazers)  
     🏗️ Cloud-native containerized cargo management project tailored for self-hosted logistics dispatch and freight workflows.
 
 ---
